@@ -1,0 +1,19 @@
+{
+    "bn": {
+        "n_nodes": 20,
+        "ratio_arc": 2,
+        "n_modmin": 3,
+        "n_modmax": 3
+    },
+    "exp_settings": {
+        "n_bn_extractions": 10,
+        "n_sample_extractions": 20,
+        "prior_type_vec": ["domain_knowledge"],
+        "reference_proportion": 0.5,
+        "target_proportion": 0.25,
+        "start_error": -3,
+        "end_error": 0,
+        "step_error": 30,
+        "random_state": 42
+    }
+}

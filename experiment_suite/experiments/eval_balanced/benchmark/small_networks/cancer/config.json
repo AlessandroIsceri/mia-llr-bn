@@ -1,0 +1,12 @@
+{
+    "exp_settings": {
+        "n_sample_extractions": 20,
+        "prior_type_vec": ["domain_knowledge"],   
+        "reference_proportion": 0.5,
+        "target_proportion": 0.25,
+        "start_error": -3,
+        "end_error": 0,
+        "step_error": 30,
+        "random_state": 42
+    }
+}
